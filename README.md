@@ -5,7 +5,7 @@
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
-![][https://github.com/fanTaestic/AirBNB_Python_DataViz/blob/main/Legislation%20is%20out_%20Tax%20of%2015%25-45%25%20on%20Airbnb%20short-term%20rentals%20in%20Greece%20-%20Keep%20Talking%20Greece.jpeg]
+![](https://github.com/fanTaestic/AirBNB_Python_DataViz/blob/main/Legislation%20is%20out_%20Tax%20of%2015%25-45%25%20on%20Airbnb%20short-term%20rentals%20in%20Greece%20-%20Keep%20Talking%20Greece.jpeg)
 
 ---
 
